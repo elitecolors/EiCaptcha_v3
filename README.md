@@ -8,3 +8,4 @@ module prestashop to integrate captha v3
 # go to contact page you will see captcha google 
 
 # module prestashop 
+# bu the way the free module work only with v2 this module work with v3
